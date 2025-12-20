@@ -33,8 +33,7 @@ Styles       Interaction  Effectiveness  Values   Decision Quality  Heuristics
 
 </pre>
 
-Where AI meets Management to empower SMEs.
-
+“My PhD focuses on leadership and managerial decision-making, examining how AI-assisted tools influence leader judgment, organizational behavior, and firm performance.”
 # ManagementImpactLab
 
 Welcome to ManagementImpactLab, the personal research lab of Komal Sharma.  
