@@ -1,37 +1,4 @@
 ## Hi there 👋 
-<pre>
-                 PhD IN MANAGEMENT
-            (Leadership & Decision-Making)
-                         |
-                         |
-        ------------------------------------------------
-        |                     |                       |
- Organizational          Leadership            Decision-Making
-   Behavior               Studies              & Cognition
-        |                     |                       |
-        |                     |                       |
-  ----------------     ----------------       ---------------------
-  |              |     |              |       |                   |
-Leadership   Human–AI  Leadership   Ethics &  Judgment &       Biases &
-Styles       Interaction  Effectiveness  Values   Decision Quality  Heuristics
-  |              |          |              |         |               |
-  -------------------------------------------------------------------
-                         |
-                         |
-               AI-Assisted Leadership
-               in Organizations (SMEs)
-                         |
-                         |
-        ------------------------------------------------
-        |                     |                       |
-   Managerial           Organizational            Firm-Level
-   Judgment              Outcomes                 Performance
-        |                     |                       |
-  Trust in AI        Culture & Change        Growth | Innovation
-  Over-reliance      Employee Engagement     Competitive Advantage
-
-
-</pre>
 
 “My PhD focuses on leadership and managerial decision-making, examining how AI-assisted tools influence leader judgment, organizational behavior, and firm performance.”
 # ManagementImpactLab
